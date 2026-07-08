@@ -3907,3 +3907,22 @@ input, select, textarea {
 			}
 
 		}
+
+/* ===== Intro Section ===== */
+
+.intro-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 3em;
+}
+
+.intro-text {
+    flex: 1;
+}
+
+.intro-photo img {
+    width: 260px;
+    height: auto;
+    border-radius: 8px;
+}
