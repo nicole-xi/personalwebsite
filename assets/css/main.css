@@ -1,6 +1,5 @@
 @import url(fontawesome-all.min.css);
 
-/*
 	Hyperspace by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -197,10 +196,10 @@ input, select, textarea {
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: -moz-linear-gradient(to right, #C19A6B, #A67C52);
+				background-image: -webkit-linear-gradient(to right, #C19A6B, #A67C52);
+				background-image: -ms-linear-gradient(to right, #C19A6B, #A67C52);
+				background-image: linear-gradient(to right, #C19A6B, #A67C52);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
