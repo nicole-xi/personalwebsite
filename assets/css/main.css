@@ -1988,7 +1988,7 @@ input, select, textarea {
 		flex-wrap: wrap;
 		border-radius: 0.25em;
 		border: solid 1px #444444;
-		background: #8B6A3D;
+		background: #F5EFE6;
 		margin: 0 0 2em 0;
 	}
 
@@ -3369,7 +3369,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #5e42a6;
+		background-color: #C19A6B;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
