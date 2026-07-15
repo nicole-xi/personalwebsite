@@ -1865,7 +1865,7 @@ input, select, textarea {
 			-webkit-transition: opacity 0.2s ease, -webkit-transform 0.2s ease;
 			-ms-transition: opacity 0.2s ease, -ms-transform 0.2s ease;
 			transition: opacity 0.2s ease, transform 0.2s ease;
-			background: #8B6A3D;
+			background: #F5EFE6;
 			border-radius: 3em;
 			content: '';
 			height: 100%;
@@ -1913,7 +1913,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #8B6A3D;
+			background-color: #F5EFE6;
 			color: #C3B091 !important;
 		}
 
