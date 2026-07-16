@@ -3925,3 +3925,28 @@ input, select, textarea {
     height: auto;
     border-radius: 8px;
 }
+/* Research Section */
+
+.research-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2em;
+    margin-top: 2em;
+}
+
+.research-box {
+    border: solid 1px rgba(255,255,255,0.15);
+    border-radius: 0.5em;
+    padding: 2em;
+    background: rgba(255,255,255,0.03);
+}
+
+.research-box ul {
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 980px) {
+    .research-grid {
+        grid-template-columns: 1fr;
+    }
+}
